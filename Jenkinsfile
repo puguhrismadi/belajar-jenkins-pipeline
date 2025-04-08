@@ -2,9 +2,9 @@ pipeline {
   agent none
 
   environment {
-    AUTHOR = "Eko Kurniawan Khannedy"
-    EMAIL = "echo.khannedy@gmail.com"
-    WEB = "https://www.programmerzamannow.com"
+    AUTHOR = "Puguh Rismadi"
+    EMAIL = "puguh.rismadi@gmail.com"
+    WEB = "https://www.github.com"
   }
 
 //  triggers {
